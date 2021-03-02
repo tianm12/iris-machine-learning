@@ -1,2 +1,2 @@
-# viridis-machine-learning
-machine learning practice with viridis dataset
+# iris-machine-learning
+machine learning practice with iris dataset
